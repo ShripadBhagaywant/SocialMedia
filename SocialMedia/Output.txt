@@ -1,0 +1,133 @@
+
+/*
+    Output of following programme is :-
+
+Press 1 : Add The user
+Press 2 : Follow The user
+Press 3 : UnFollow The user
+Press 4 : Retrieve followers list
+Press 5 : Retrieve following list
+Press 6 : Exit
+
+Enter the  choice : 1
+
+********* |Add the user here| *************
+
+Enter the user id :
+U1
+
+Enter the  name :
+Shri
+
+Enter the  email id :
+Shri@gmail.com
+
+User added successfully!
+
+Press 1 : Add The user
+Press 2 : Follow The user
+Press 3 : UnFollow The user
+Press 4 : Retrieve followers list
+Press 5 : Retrieve following list
+Press 6 : Exit
+
+Enter the  choice : 1
+
+********* |Add the user here| *************
+
+Enter the user id :
+U2
+
+Enter the  name :
+Omkar
+
+Enter the  email id :
+Omakr@gmail.com
+
+User added successfully!
+
+Press 1 : Add The user
+Press 2 : Follow The user
+Press 3 : UnFollow The user
+Press 4 : Retrieve followers list
+Press 5 : Retrieve following list
+Press 6 : Exit
+
+Enter the  choice : 2
+
+********** |Follow the user here| *********
+Enter the user id :
+U1
+Enter the user id to follow :
+U2
+User U1 is now following the user U2
+Press 1 : Add The user
+Press 2 : Follow The user
+Press 3 : UnFollow The user
+Press 4 : Retrieve followers list
+Press 5 : Retrieve following list
+Press 6 : Exit
+
+Enter the  choice : 2
+
+********** |Follow the user here| *********
+Enter the user id :
+U2
+Enter the user id to follow :
+U1
+User U2 is now following the user U1
+Press 1 : Add The user
+Press 2 : Follow The user
+Press 3 : UnFollow The user
+Press 4 : Retrieve followers list
+Press 5 : Retrieve following list
+Press 6 : Exit
+
+Enter the  choice : 4
+
+***********| Follower list |*************
+Enter the user id :
+U1
+The follower list is : [U2]
+Press 1 : Add The user
+Press 2 : Follow The user
+Press 3 : UnFollow The user
+Press 4 : Retrieve followers list
+Press 5 : Retrieve following list
+Press 6 : Exit
+
+Enter the  choice : 3
+
+********** | Follow the user here | *********
+Enter the user id :
+U1
+Enter the user id to Unfollow :
+U2
+User U1 is now following the user U2
+Press 1 : Add The user
+Press 2 : Follow The user
+Press 3 : UnFollow The user
+Press 4 : Retrieve followers list
+Press 5 : Retrieve following list
+Press 6 : Exit
+
+Enter the  choice : 5
+
+*********** | Following list | *************
+Enter the user id :
+U1
+The followed list is : [U2]
+Press 1 : Add The user
+Press 2 : Follow The user
+Press 3 : UnFollow The user
+Press 4 : Retrieve followers list
+Press 5 : Retrieve following list
+Press 6 : Exit
+
+Enter the  choice : 6
+
+
+Process finished with exit code 0
+
+
+**/
